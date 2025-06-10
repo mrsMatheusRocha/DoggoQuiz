@@ -4,7 +4,7 @@ DoggoQuiz é um jogo de perguntas e respostas divertido e educativo, criado para
 
 ## 🎮 Sobre o Projeto
 
-O objetivo do DoggoQuiz é desafiar o usuário com perguntas variadas sobre raças, curiosidades, comportamentos e fatos interessantes do mundo canino. Ao final do quiz, o jogador recebe um feedback com sua pontuação e dicas para aprender mais.
+O objetivo do DoggoQuiz é desafiar o usuário com perguntas variadas sobre raças. Ao final do quiz, o jogador recebe um feedback com sua pontuação e dicas para aprender mais.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -16,7 +16,6 @@ O objetivo do DoggoQuiz é desafiar o usuário com perguntas variadas sobre raç
 
 - Perguntas aleatórias sobre cachorros.
 - Interface amigável e responsiva.
-- Pontuação final ao término do quiz.
 - Possibilidade de reiniciar o quiz e tentar novamente.
 
 ## 🖥️ Como executar
