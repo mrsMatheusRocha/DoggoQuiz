@@ -34,7 +34,7 @@ O objetivo do DoggoQuiz é desafiar o usuário com perguntas variadas sobre raç
 
 Adicione aqui uma imagem ou GIF demonstrativo do jogo (opcional):
 
-![Demonstração do DoggoQuiz](caminho/para/imagem.png)
+![Demonstração do DoggoQuiz](https://github.com/mrsMatheusRocha/DoggoQuiz/blob/f52bcbc15e10a8ab0281d5483fdeccb4ff755c24/doggoquiz.png)
 
 ## 🤝 Contribuições
 
